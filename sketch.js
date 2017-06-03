@@ -7,7 +7,7 @@
 var debug = true;
 
 //Use forcefield
-var flow = false;
+var flow = true;
 
 //Flow field of vectors
 var flowfield;
